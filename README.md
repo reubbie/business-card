@@ -1,2 +1,2 @@
-# HTML and CSS for Complete Beginners
-Work files for Tuts+ video course: HTML and CSS for Complete Beginners
+# Dev-business-card-project with CSS & HTML
+business-card
